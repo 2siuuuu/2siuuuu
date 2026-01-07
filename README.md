@@ -6,7 +6,7 @@
 
 |  Project  |  Repository  |  Documentation  |  Remarks  |
 |  -------  |  ----------  |  -------------  |  -------  |
-|  rag-document-search  |  [Link](https://github.com/2siuuuu/rag-document-search)  |  [문제 해결 과정](https://gist.github.com/2siuuuu#document-links)  |  Branch : develop-backend  |
+|  roleplayingGame  |  [Link](https://github.com/2siuuuu/roleplayingGame)  |  |  |
 
 
 ### 완료
