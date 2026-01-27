@@ -8,5 +8,5 @@
 
 
 # TIL
-[백준 문제풀이 기록](https://gist.github.com/2siuuuu/d12f70bef864d234ffa9649d22ce27e9)
+[백준](https://github.com/2siuuuu/TIL/tree/main/%EB%B0%B1%EC%A4%80)
 
